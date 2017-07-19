@@ -23,8 +23,8 @@
     <color name="color_primary_light">#57dcbd</color>
 
     <color name="color_secundary">#ff4081</color>
-    <color name="color_secundary_dark">#ff79b0</color>
-    <color name="color_secundary_light">#c60055</color>
+    <color name="color_secundary_dark">#c60055</color>
+    <color name="color_secundary_light">#ff79b0</color>
 
 
     <color name="theme_primary">#04561A</color>
